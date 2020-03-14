@@ -1,4 +1,47 @@
 
+body
+{
+    background-color: aquamarine;
+}
+legend
+{
+    color: salmon;
+    font-weight: bolder;
+    text-decoration: underline
+}
+span
+{
+    background-color: yellow; 
+}
+
+h3
+{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline
+}
+dl
+{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: lighter
+}
+fieldset
+{
+    margin: 10px
+}
+a
+{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+p:hover
+{
+    text-decoration: underline
+}
+
+
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -76,4 +119,3 @@
         </div>
     </body>
 </html>
-
